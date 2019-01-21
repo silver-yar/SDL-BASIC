@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  SDL BASIC.cpp
+c:\users\johnathan\source\repos\sdl basic\sdl basic.cpp(6): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory

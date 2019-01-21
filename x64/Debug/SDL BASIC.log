@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  Particle.cpp
+  Screen.cpp
+c:\users\johnathan\source\repos\sdl basic\screen.cpp(58): warning C4101: 'temp': unreferenced local variable
+  SDL BASIC.cpp
+c:\users\johnathan\source\repos\sdl basic\sdl basic.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\johnathan\source\repos\sdl basic\sdl basic.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\johnathan\source\repos\sdl basic\sdl basic.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\johnathan\source\repos\sdl basic\sdl basic.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\johnathan\source\repos\sdl basic\sdl basic.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\johnathan\source\repos\sdl basic\sdl basic.cpp(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Swarm.cpp
+  Generating Code...
+  SDL BASIC.vcxproj -> C:\Users\Johnathan\source\repos\SDL BASIC\x64\Debug\SDL BASIC.exe
